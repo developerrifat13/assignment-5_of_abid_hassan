@@ -1,0 +1,103 @@
+
+[
+  {
+    "id": 1,
+    "name": "HTML5",
+    "category": "Frontend",
+    "description": "The standard markup language for web pages.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+    "rating": 4.8,
+    "difficulty": "Beginner",
+    "badge": "Essential"
+  },
+  {
+    "id": 2,
+    "name": "CSS3",
+    "category": "Frontend",
+    "description": "Style web pages with layouts, colors, and animations.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+    "rating": 4.8,
+    "difficulty": "Beginner",
+    "badge": "Essential"
+  },
+  {
+    "id": 3,
+    "name": "JavaScript",
+    "category": "Language",
+    "description": "Build interactive and dynamic web experiences.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+    "rating": 4.9,
+    "difficulty": "Intermediate",
+    "badge": "Popular"
+  },
+  {
+    "id": 4,
+    "name": "React",
+    "category": "Frontend",
+    "description": "Build user interfaces using reusable components.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+    "rating": 4.9,
+    "difficulty": "Intermediate",
+    "badge": "Popular"
+  },
+  {
+    "id": 5,
+    "name": "TypeScript",
+    "category": "Language",
+    "description": "Write JavaScript with static type checking.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Trending"
+  },
+  {
+    "id": 6,
+    "name": "Node.js",
+    "category": "Backend",
+    "description": "Run JavaScript on the server side.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+    "rating": 4.7,
+    "difficulty": "Intermediate",
+    "badge": "Popular"
+  },
+  {
+    "id": 7,
+    "name": "Express",
+    "category": "Backend",
+    "description": "Create web servers and APIs with Node.js.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+    "rating": 4.6,
+    "difficulty": "Intermediate",
+    "badge": "Essential"
+  },
+  {
+    "id": 8,
+    "name": "MongoDB",
+    "category": "Database",
+    "description": "Store application data in a document database.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
+    "rating": 4.7,
+    "difficulty": "Intermediate",
+    "badge": "Popular"
+  },
+  {
+    "id": 9,
+    "name": "Next.js",
+    "category": "Frontend",
+    "description": "Build React applications with routing and rendering tools.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
+    "rating": 4.8,
+    "difficulty": "Advanced",
+    "badge": "Trending"
+  },
+  {
+    "id": 10,
+    "name": "Git",
+    "category": "Tools",
+    "description": "Track code changes and collaborate with developers.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+    "rating": 4.8,
+    "difficulty": "Beginner",
+    "badge": "Essential"
+  }
+]
